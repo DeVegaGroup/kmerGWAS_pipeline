@@ -1,0 +1,48 @@
+16000: /path/to/kmergwas_demo/reads/16000_0.fq.gz
+16001: /path/to/kmergwas_demo/reads/16001_0.fq.gz; /path/to/kmergwas_demo/reads/16001_1.fq.gz
+16002: /path/to/kmergwas_demo/reads/16002_0.fq.gz
+16003: /path/to/kmergwas_demo/reads/16003_0.fq.gz
+16004: /path/to/kmergwas_demo/reads/16004_0.fq.gz
+16005: /path/to/kmergwas_demo/reads/16005_0.fq.gz
+16006: /path/to/kmergwas_demo/reads/16006_0.fq.gz
+16007: /path/to/kmergwas_demo/reads/16007_0.fq.gz
+16008: /path/to/kmergwas_demo/reads/16008_0.fq.gz
+16009: /path/to/kmergwas_demo/reads/16009_0.fq.gz
+16010: /path/to/kmergwas_demo/reads/16010_0.fq.gz
+16011: /path/to/kmergwas_demo/reads/16011_0.fq.gz; /path/to/kmergwas_demo/reads/16011_1.fq.gz
+16012: /path/to/kmergwas_demo/reads/16012_0.fq.gz
+16013: /path/to/kmergwas_demo/reads/16013_0.fq.gz
+16014: /path/to/kmergwas_demo/reads/16014_0.fq.gz
+16015: /path/to/kmergwas_demo/reads/16015_0.fq.gz
+16016: /path/to/kmergwas_demo/reads/16016_0.fq.gz
+16017: /path/to/kmergwas_demo/reads/16017_0.fq.gz
+16018: /path/to/kmergwas_demo/reads/16018_0.fq.gz
+16019: /path/to/kmergwas_demo/reads/16019_0.fq.gz
+16020: /path/to/kmergwas_demo/reads/16020_0.fq.gz
+16021: /path/to/kmergwas_demo/reads/16021_0.fq.gz; /path/to/kmergwas_demo/reads/16021_1.fq.gz
+16022: /path/to/kmergwas_demo/reads/16022_0.fq.gz
+16023: /path/to/kmergwas_demo/reads/16023_0.fq.gz
+16024: /path/to/kmergwas_demo/reads/16024_0.fq.gz
+16025: /path/to/kmergwas_demo/reads/16025_0.fq.gz
+16026: /path/to/kmergwas_demo/reads/16026_0.fq.gz
+16027: /path/to/kmergwas_demo/reads/16027_0.fq.gz
+16028: /path/to/kmergwas_demo/reads/16028_0.fq.gz
+16029: /path/to/kmergwas_demo/reads/16029_0.fq.gz
+16030: /path/to/kmergwas_demo/reads/16030_0.fq.gz
+16031: /path/to/kmergwas_demo/reads/16031_0.fq.gz; /path/to/kmergwas_demo/reads/16031_1.fq.gz
+16032: /path/to/kmergwas_demo/reads/16032_0.fq.gz
+16033: /path/to/kmergwas_demo/reads/16033_0.fq.gz
+16034: /path/to/kmergwas_demo/reads/16034_0.fq.gz
+16035: /path/to/kmergwas_demo/reads/16035_0.fq.gz
+16036: /path/to/kmergwas_demo/reads/16036_0.fq.gz
+16037: /path/to/kmergwas_demo/reads/16037_0.fq.gz
+16038: /path/to/kmergwas_demo/reads/16038_0.fq.gz
+16039: /path/to/kmergwas_demo/reads/16039_0.fq.gz
+16040: /path/to/kmergwas_demo/reads/16040_0.fq.gz
+16041: /path/to/kmergwas_demo/reads/16041_0.fq.gz; /path/to/kmergwas_demo/reads/16041_1.fq.gz
+16042: /path/to/kmergwas_demo/reads/16042_0.fq.gz
+16043: /path/to/kmergwas_demo/reads/16043_0.fq.gz
+2_SX18: /path/to/kmergwas_demo/reads/2_SX18_0.fq.gz
+3_SX18: /path/to/kmergwas_demo/reads/3_SX18_0.fq.gz
+4_SX18: /path/to/kmergwas_demo/reads/4_SX18_0.fq.gz
+5_SX18: /path/to/kmergwas_demo/reads/5_SX18_0.fq.gz

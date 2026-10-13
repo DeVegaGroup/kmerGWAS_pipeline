@@ -1,0 +1,27 @@
+##
+## GEMMA Version    = 0.98.5 (2021-08-25)
+## Build profile    = /gnu/store/8rvid272yb53bgascf5c468z0jhsyflj-profile
+## GCC version      = 7.5.0
+## GSL Version      = 2.6
+## OpenBlas         = OpenBLAS 0.3.9  - OpenBLAS 0.3.9 DYNAMIC_ARCH NO_AFFINITY Prescott MAX_THREADS=128
+##   arch           = Prescott
+##   threads        = 1
+##   parallel type  = threaded
+##
+## Command Line Input = gemma -gk 1 -g kmergwas_k31/chunks/k31_0000.bimbam.gz -p kmergwas_k31/pheno/pheno_apo.gemma.txt -n 2 -outdir kmergwas_k31/assoc/k31_0000 -o kin_pheno_apo.plant-height 
+##
+## Date = Tue Oct 13 16:15:38 2026
+##
+## Summary Statistics:
+## number of total individuals = 48
+## number of analyzed individuals = 45
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs/var = 400000
+## number of analyzed SNPs/var = 389754
+##
+## Computation Time:
+## total computation time = 0.0695745 min 
+## computation time break down: 
+##      time on calculating relatedness matrix = 0.0440653 min 
+##
